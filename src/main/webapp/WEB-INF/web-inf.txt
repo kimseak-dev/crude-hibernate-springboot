@@ -1,0 +1,2 @@
+page dir for page
+resource for css, image
